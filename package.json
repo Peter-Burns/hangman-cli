@@ -1,0 +1,22 @@
+{
+  "name": "hangman-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peter-Burns/hangman-cli.git"
+  },
+  "author": "Pete Burns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Peter-Burns/hangman-cli/issues"
+  },
+  "homepage": "https://github.com/Peter-Burns/hangman-cli#readme",
+  "dependencies": {
+    "inquirer": "^5.0.0"
+  }
+}
