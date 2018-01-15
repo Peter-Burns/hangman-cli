@@ -15,7 +15,7 @@ function Word (word) {
             word += letter.display() + ' ';
         });
         console.log(word);
-    }
+    };
     this.guess = function(guess){
         var correct = false;
         this.letters.forEach(function(letter){
@@ -25,7 +25,7 @@ function Word (word) {
             }
         });
         return correct;
-    }
+    };
     this.check = function(){
         var done = true;
         this.letters.forEach(function(letter){
