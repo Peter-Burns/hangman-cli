@@ -18,5 +18,9 @@
   "homepage": "https://github.com/Peter-Burns/hangman-cli#readme",
   "dependencies": {
     "inquirer": "^5.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "eslint-plugin-react": "^7.5.1"
   }
 }
